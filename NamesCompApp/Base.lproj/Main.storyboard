@@ -50,8 +50,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <textInputTraits key="textInputTraits" returnKeyType="next"/>
                                                 <connections>
-                                                    <outlet property="delegate" destination="BYZ-38-t0r" id="rrv-hN-yrL"/>
-                                                    <outlet property="pasteDelegate" destination="BYZ-38-t0r" id="17s-xJ-Umd"/>
+                                                    <outlet property="delegate" destination="BYZ-38-t0r" id="4VA-Qc-qOW"/>
                                                 </connections>
                                             </textField>
                                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="bJZ-Db-jm7">
@@ -59,7 +58,7 @@
                                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                 <textInputTraits key="textInputTraits" returnKeyType="done"/>
                                                 <connections>
-                                                    <outlet property="delegate" destination="BYZ-38-t0r" id="Jt8-0r-1kJ"/>
+                                                    <outlet property="delegate" destination="BYZ-38-t0r" id="78g-6L-Hs4"/>
                                                 </connections>
                                             </textField>
                                         </subviews>
